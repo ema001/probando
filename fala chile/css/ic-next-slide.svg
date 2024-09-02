@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>prev-page-active copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Carrusel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1350.000000, -239.000000)">
+            <g id="prev-page-active-copy" transform="translate(1375.000000, 264.000000) scale(-1, 1) translate(-1375.000000, -264.000000) translate(1350.000000, 239.000000)">
+                <circle id="base" fill="#CFDAE6" fill-rule="nonzero" opacity="0.6" cx="25" cy="25" r="25"></circle>
+                <g id="Icons-/-Inline-/-icn-link-dark" stroke-linecap="round" stroke-linejoin="round" transform="translate(24.509804, 25.000000) scale(-1, 1) translate(-24.509804, -25.000000) translate(20.588235, 18.627451)" stroke="#FFFFFF" stroke-width="2">
+                    <polyline id="trazo" transform="translate(3.921569, 6.372549) scale(-1, 1) translate(-3.921569, -6.372549) " points="7.05882353 12.745098 0.784313725 6.37254902 7.05882353 0"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
